@@ -1,0 +1,172 @@
+[
+  {
+
+    "name": "Lena",
+    "lastname": "Reyes Alanis",
+    "curp":"REAADF20056",
+    "birthday": "2002-01-19",
+    "docente_num": null,
+    "estu_matri": "20203TN003"
+
+  },
+
+  {
+
+    "name": "Diana",
+    "lastname": "Alanis",
+    "curp":"DIAAL20389",
+    "birthday": "1997-11-01",
+    "docente_num":null,
+    "estu_matri": "20205TN005"
+
+  },
+
+  {
+
+    "name": "Denis",
+    "lastname": "Ramos",
+    "curp":"DISRA3245",
+    "birthday": "2000-08-12",
+    "docente_num": null,
+    "estu_matri": "20203TN018"
+
+  },
+
+  {
+
+    "name": "Martha",
+    "lastname": "Andy",
+    "curp":"MARAD2499",
+    "birthday": "2001-05-20",
+    "docente_num": null,
+    "estud_matri": "20213TN020"
+
+  },
+
+  {
+
+    "name": "Gerardo",
+    "lastname": "Martin",
+    "curp":"GEMRT2340",
+    "birthday": "2003-09-08",
+    "docente_num": null,
+    "estu_matri": "20213TN001"
+
+  },
+
+  {
+
+    "name": "Fer",
+    "lastname": "Davila",
+    "curp":"FEDVL250O",
+    "birthday": "2001-10-23",
+    "docente_num": null,
+    "estu_matri": "20203TN030"
+
+  },
+
+  {
+
+    "name": "Maycol",
+    "lastname": "Carmona",
+    "curp":"MRLCA2489",
+    "birthday": "2000-10-19",
+    "docente_num": null,
+    "estu_matri": "20203TN009"
+
+  },
+
+  {
+
+    "name": "Andrea Lili",
+    "lastname": "Paredes Rey",
+    "curp":"ANPAR3909",
+    "birthday": "2001-12-17",
+    "docente_num": null,
+    "estu_matri": "20203TN005"
+
+  },
+
+  {
+
+    "name": "Sergio",
+    "lastname": "Dominguez ",
+    "curp":"SERDO2398",
+    "birthday": "2002-09-09",
+    "docente_num": null,
+    "estu_matri": "20213TN013"
+
+  },
+  {
+
+    "name": "Marcos Perdro",
+    "lastname": "Pedrosa Tour",
+    "curp":"MAPEPT4960",
+    "birthday": "2002-07-01",
+    "docente_num": null,
+    "estu_matri": "20203TN014"
+
+  },
+  {
+
+    "name": "Melina",
+    "lastname": "Saragoza",
+    "curp":"MESR031700",
+    "birthday": "2001-09-04",
+    "docente_num": null,
+    "estu_matri": "20213TN015"
+
+  },
+  {
+
+    "name": "Yatziri",
+    "lastname": "Aguilar",
+    "curp":"YATR07803",
+    "birthday": "2001-06-22",
+    "docente_num": null,
+    "estu_matri": "20213TN010"
+
+  },
+  {
+
+    "name": "Adriana",
+    "lastname": "Perez",
+    "curp":"ADPZ05205",
+    "birthday": "2000-02-02",
+    "docente_num": null,
+    "estu_matri": "20203TN025"
+
+  },
+  {
+
+    "name": "Panfila",
+    "lastname": "Keli",
+    "curp":"PAKL031201",
+    "birthday": "2002-03-22",
+    "docente_num": null,
+    "estu_matri": "20213TN001"
+
+  },
+  {
+
+    "name": "Misael",
+    "lastname": "Rofer",
+    "curp":"MIFD03085",
+    "birthday": "2001-11-23",
+    "docente_num": null,
+    "estu_matri": "20213TN019"
+
+  },
+
+  {
+
+    "name": "Kelia",
+    "lastname": "Yarti",
+    "curp":"KEYA032006",
+    "birthday": "2003-12-22",
+    "docente_num": null,
+    "estu_matri": "20213TN020"
+
+  },
+
+]
